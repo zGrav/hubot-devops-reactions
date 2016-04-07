@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   devops reactions
+#   devops reactions - Gets random devops reactions post
 #
 # Author:
 #
